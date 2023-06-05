@@ -1,5 +1,5 @@
 # Simple-Linear-Regression
-Performed Simple Linear Regression on salary dataset. The ML can predict salary based on the years of experience. The python code approaches Linear Regression by performing all the 6 jars of ML.
+Performed Simple Linear Regression on salary dataset. The ML algorithm can predict salary based on the years of experience. The python code approaches Linear Regression by performing all the 6 jars of ML.
 1st JAR: Data - 
   Data Cleaning:
     (a) Import Data
@@ -27,4 +27,4 @@ Performed Simple Linear Regression on salary dataset. The ML can predict salary 
   Generally, to find the best parameters which could fit the model, ML algorithm performs a method called gradient descend.
   This Jar has been performed in the 3rd Jar itself. So, there is no specific code to perform gradient descent.
 6th JAR: Evaluation Metric -
-   We are calculating an evaluation metric called r-squared which shows how well the data fit the regression model (the goodness of fit)
+   We are calculating an evaluation metric called r-squared which shows how well the data fit the regression model (the goodness of fit).
