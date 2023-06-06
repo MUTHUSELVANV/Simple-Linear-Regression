@@ -28,3 +28,6 @@ Performed Simple Linear Regression on salary dataset. The ML algorithm can predi
   This Jar has been performed in the 3rd Jar itself. So, there is no specific code to perform gradient descent.
 6th JAR: Evaluation Metric -
    We are calculating an evaluation metric called r-squared which shows how well the data fit the regression model (the goodness of fit).
+   
+Once we are with a good model, we can predict the Salary of an employee based on the Year of Experience.
+It is also interesting to note that the model is limited to predict salary only if the Years of Experience lies inside the three sigma interval.
