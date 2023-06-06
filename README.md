@@ -6,6 +6,7 @@ Performed Simple Linear Regression on salary dataset. The ML algorithm can predi
     (b) Check for any outliers (iqr method)
     (c) Check for missing value, check for data type of each column of dataframe
     (d) Check for Linear Relationship between each Feature and Target
+    (e) Checking for duplicates in the Dataset
   Splitting:
     Split all the features and target dataset into two: Train Data & Test Data
     we would get 4 subsets:
