@@ -1,5 +1,5 @@
 # Simple-Linear-Regression
-We performed Simple Linear Regression on the salary dataset. The ML algorithm can predict salary based on years of experience. The Python code approaches Linear Regression by completing all the 6 jars of ML.
+We performed Simple Linear Regression on the salary dataset. The ML algorithm can predict salary based on years of experience. The Python code approaches Linear Regression by completing all 6 jars of ML.
 - 1st JAR: **Data** - 
   - Data Cleaning:
     - Import Data
@@ -19,9 +19,9 @@ We performed Simple Linear Regression on the salary dataset. The ML algorithm ca
   Linear Regression comes under Supervised learning since we are predicting a target.
   From sklearn library, under the linear_model module, we are importing LinearRegression
   Then we are assigning an object to LinearRegression
-  Later, we fit the object on the training dataset
+  Later, we fit the object on the training dataset.
 - 3rd JAR: **Model** -
-  We arrive at a mathematical formula containing features and target from the calculated parameters 
+  We arrive at a mathematical formula containing features and target from the calculated parameters. 
 - 4th JAR: **Loss** - 
   We are calculating Mean Squared Error on test data to numerically understand how well the model works.
 - 5th JAR: **Learning** -
