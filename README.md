@@ -14,7 +14,7 @@ We performed Simple Linear Regression on the salary dataset. The ML algorithm ca
       - Features - Testing Dataset
       - Target - Training Dataset 
       - Target - Testing Dataset
-    Have allocated 75% of data for Training and 25% of data for Testing
+  Have allocated 75% of data for Training and 25% of data for Testing
 - 2nd JAR: **Task** - 
   Linear Regression comes under Supervised learning since we are predicting a target.
   From sklearn library, under the linear_model module, we are importing LinearRegression.
