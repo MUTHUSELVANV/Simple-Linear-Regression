@@ -2,18 +2,18 @@
 Performed Simple Linear Regression on salary dataset. The ML algorithm can predict salary based on the years of experience. The python code approaches Linear Regression by performing all the 6 jars of ML.
 - 1st JAR: Data - 
   - Data Cleaning:
-    - (a) Import Data
-    - (b) Check for any outliers (iqr method)
-    - (c) Check for missing value, check for data type of each column of dataframe
-    - (d) Check for Linear Relationship between each Feature and Target
-    - (e) Checking for duplicates in the Dataset
+    - Import Data
+    - Check for any outliers (iqr method)
+    - Check for missing value, check for data type of each column of dataframe
+    - Check for Linear Relationship between each Feature and Target
+    - Checking for duplicates in the Dataset
   - Splitting:
     Split all the features and target dataset into two: Train Data & Test Data
     we would get 4 subsets:
-      - 1) Features - Training Dataset
-      - 2) Features - Testing Dataset
-      - 3) Target - Training Dataset 
-      - 4) Target - Testing Dataset
+      - Features - Training Dataset
+      - Features - Testing Dataset
+      - Target - Training Dataset 
+      - Target - Testing Dataset
     Have allocated 75% of data for Training and 25% of data for Testing
 - 2nd JAR: Task - 
   Linear Regression comes under Supervised learning since we are predicting a target.
