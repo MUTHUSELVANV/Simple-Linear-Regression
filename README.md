@@ -21,13 +21,17 @@ We performed Simple Linear Regression on the salary dataset. The ML algorithm ca
   From sklearn library, under the linear_model module, we are importing LinearRegression.
   Then we are assigning an object to LinearRegression
   Later, we fit the object on the training dataset.
+  
 - 3rd JAR: **Model** -
-  We arrive at a mathematical formula containing features and target from the calculated parameters. 
+  We arrive at a mathematical formula containing features and target from the calculated parameters.
+  
 - 4th JAR: **Loss** - 
   We are calculating Mean Squared Error on test data to numerically understand how well the model works.
+  
 - 5th JAR: **Learning** -
   Generally, to find the best parameters which could fit the model, the ML algorithm performs a method called gradient descent.
   This Jar has been performed in the 3rd Jar itself. So, there is no specific code to perform gradient descent.
+  
 - 6th JAR: **Evaluation Metric** -
    We are calculating an evaluation metric called r-squared which shows how well the data fit the regression model (the goodness of fit).
    
